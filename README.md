@@ -1,5 +1,4 @@
 # Intro to Spike Sorting using SpikeInterface Demo - Hussaini Lab
-<div style="text-align: right"> <font color='black'>- by Dilip Rajeswari</font>  </div>
 
 For this demo session, we'll walk through the basics of using `SpikeInterface` <font color='blue'>(AP Buccino et al., 2020)</font>, a python module designed to improve the accessibility, reliability, and reproducibility of spike sorting and all its associated computations, for extracellular analysis and spike sorting comparison. 
 
